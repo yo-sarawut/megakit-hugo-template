@@ -1,8 +1,8 @@
-baseURL = 'http://example.org/'
+baseURL = "https://dragon-content.github.io/public/megakit/"
 languageCode = 'en-us'
 title = "Megakit"
 Paginate = 20
-PaginatePath = "/"
+PaginatePath = "/public/megakit/"
 summaryLength = 10
 
 [taxonomies]
