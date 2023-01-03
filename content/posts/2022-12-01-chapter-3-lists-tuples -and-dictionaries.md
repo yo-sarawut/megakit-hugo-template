@@ -3,7 +3,7 @@ date: 2022-12-01
 title: Chapter 3  Lists Tuples and Dictionaries
 categories:
   - Creativity
-image_path: /images/blog/4.jpg
+image_path: /images/blog/2.jpg
 author: Bobby Brown
 ---
 
@@ -13,7 +13,7 @@ Python has several other important data types that you’ll probably use every d
 
 ## Lists
 
-![](1.jpg)
+
 
 A Python list is similar to an array in other languages. In Python, an empty list can be created in the following ways.
  ```py
